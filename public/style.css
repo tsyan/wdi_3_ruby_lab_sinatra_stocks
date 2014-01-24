@@ -1,0 +1,23 @@
+body {
+	background-image: url('http://www.wired.com/images_blogs/threatlevel/2013/05/money.jpg');
+	background-position: center center fixed;
+	background-size: cover;
+}
+
+h1 {
+	margin: 0 auto;
+	color: white;
+	font-family: cursive;
+	text-shadow: 5px 5px 5px black;
+	text-align: center;
+	font-size: 60px;
+}
+
+h2 {
+	margin: 0 auto;
+	color: cyan;
+	font-family: cursive;
+	text-shadow: 5px 5px 5px black;
+	text-align: center;
+	font-size: 40px;
+}

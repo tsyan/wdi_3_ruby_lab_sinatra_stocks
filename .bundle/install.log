@@ -1,0 +1,12 @@
+# Logfile created on 2014-01-24 12:24:41 -0500 by logger.rb/41954
+I, [2014-01-24T12:24:41.107283 #26297]  INFO -- : 0:  backports (3.4.0) from /home/anna/.rvm/gems/ruby-2.0.0-p353/specifications/backports-3.4.0.gemspec
+I, [2014-01-24T12:24:42.083922 #26297]  INFO -- : 0:  multi_json (1.8.4) from /home/anna/.rvm/gems/ruby-2.0.0-p353/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-24T12:24:42.084732 #26297]  INFO -- : 0:  rack (1.5.2) from /home/anna/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-01-24T12:24:42.831316 #26297]  INFO -- : 0:  rack-protection (1.5.2) from /home/anna/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-01-24T12:24:42.831725 #26297]  INFO -- : 0:  rack-test (0.6.2) from /home/anna/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-24T12:24:42.832024 #26297]  INFO -- : 0:  tilt (1.4.1) from /home/anna/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-01-24T12:24:44.347782 #26297]  INFO -- : 0:  sinatra (1.4.4) from /home/anna/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-01-24T12:24:45.359105 #26297]  INFO -- : 0:  sinatra-contrib (1.4.2) from /home/anna/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-contrib-1.4.2.gemspec
+I, [2014-01-24T12:24:45.359629 #26297]  INFO -- : 0:  sinatra-reloader (1.0) from /home/anna/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-reloader-1.0.gemspec
+I, [2014-01-24T12:24:45.811249 #26297]  INFO -- : 0:  yahoofinance (1.2.2) from /home/anna/.rvm/gems/ruby-2.0.0-p353/specifications/yahoofinance-1.2.2.gemspec
+I, [2014-01-24T12:24:45.811714 #26297]  INFO -- : 0:  bundler (1.5.1) from /home/anna/.rvm/gems/ruby-2.0.0-p353/specifications/bundler-1.5.1.gemspec
